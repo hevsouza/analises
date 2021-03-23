@@ -10,6 +10,7 @@ Repositório de códigos simples e replicáveis das análises publicadas.
 | Número de Vacas Ordenhadas x Produção de Leite | [br_ibge_ppm_20210305.R](/br_ibge_ppm_20210305.R) | - | 2021-00-00 |
 | Tabela de nomeações e exonerações do governo federal | [br_dou_nomeacoes_exoneracoes_20210320.sql](/br_dou_nomeacoes_exoneracoes_20210320.sql) | <https://youtu.be/5gbhj-8PWLg> | 2021-03-20 |
 | Número de MPs e Decretos por mês e menções a cloroquina no DOU | [br_dou_exemplos_20210320.ipynb](/br_dou_exemplos_20210320.ipynb) | <https://youtu.be/5gbhj-8PWLg> | 2021-03-20 |
+| Relação entre o IDEB e o PIB das capitais brasileiras | [br_capitais_ideb_pib.sql](/br_capitais_ideb_pib.sql) | https://twitter.com/basedosdados/status/1369425500154834944| 2021-03-09 |
 
 ## Como adicionar nova análise
 
